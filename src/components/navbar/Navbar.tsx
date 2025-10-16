@@ -1,6 +1,4 @@
-import React from "react";
 import logo from "../../assets/logo.svg";
-// import { useState } from "react";
 import menuicon from "../../assets/menu_icon.svg";
 import {
   Sheet,
