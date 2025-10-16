@@ -9,12 +9,11 @@
     }
   ],
   "compilerOptions": {
-    "baseUrl": ".",
     "paths": {
       "@/*": ["./src/*"]
     },
     "noUnusedLocals": false,
     "noUnusedParameters": false,
-    "ignoreDeprecations": "6.0"
+    
   }
 }
